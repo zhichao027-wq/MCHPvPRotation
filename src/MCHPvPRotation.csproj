@@ -1,0 +1,28 @@
+<Project Sdk="Dalamud.Net.SDK/15.0.0">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows7.0</TargetFramework>
+    <Platforms>x64</Platforms>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+    <AssemblyName>MCHPvPRotation</AssemblyName>
+    <RootNamespace>MCHPvPRotation</RootNamespace>
+    <Version>1.0.0.0</Version>
+
+    <!-- ============================ Dalamud 插件清单 ============================ -->
+    <Name>机工 PvP 循环</Name>
+    <Author>zhichao027-wq</Author>
+    <Punchline>机工士（MCH）战场 PvP 自动循环</Punchline>
+    <Description>为机工士提供战场 PvP 的自动循环，包含野火爆发、钻头/空气锚/回转飞锯、炮塔、分析与 LB 的时机判断。
+
+⚠️ 风险声明：本插件属于战斗自动化，可能违反游戏服务条款，使用存在封号风险，请自行判断是否使用。作者不对任何后果负责。
+
+本插件完全独立实现，不依赖任何需要验证码的运行时环境。</Description>
+    <Tags>pvp;mch;rotation;auto</Tags>
+    <CategoryTags>combat</CategoryTags>
+    <DalamudApiLevel>15</DalamudApiLevel>
+  </PropertyGroup>
+
+</Project>

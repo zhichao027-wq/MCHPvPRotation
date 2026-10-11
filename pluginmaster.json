@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "zhichao027-wq",
+    "Name": "机工 PvP 循环",
+    "InternalName": "MCHPvPRotation",
+    "Punchline": "机工士（MCH）战场 PvP 自动循环",
+    "Description": "为机工士提供战场 PvP 的自动循环，包含野火爆发、钻头/空气锚/回转飞锯、炮塔、分析与 LB 的时机判断。\n\n⚠️ 风险声明：本插件属于战斗自动化，可能违反游戏服务条款，使用存在封号风险，请自行判断是否使用。作者不对任何后果负责。\n\n本插件完全独立实现，不依赖任何需要验证码的运行时环境。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pvp",
+      "mch",
+      "rotation",
+      "auto"
+    ],
+    "CategoryTags": [
+      "combat"
+    ],
+    "DalamudApiLevel": 15,
+    "LastUpdate": 1791697306,
+    "DownloadCount": 0,
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/zhichao027-wq/MCHPvPRotation",
+    "IconUrl": "https://raw.githubusercontent.com/zhichao027-wq/MCHPvPRotation/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/zhichao027-wq/MCHPvPRotation/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/zhichao027-wq/MCHPvPRotation/releases/download/1.0.0.0/latest.zip"
+  }
+]

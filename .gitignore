@@ -1,0 +1,11 @@
+# 构建产物
+bin/
+obj/
+dist/
+
+# 用户配置
+*.user
+
+# 系统
+Thumbs.db
+desktop.ini
